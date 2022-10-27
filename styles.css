@@ -26,8 +26,11 @@ img {
   text-align: center;
 }
 
-article {
-    text-align: center;
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   
 }
 
