@@ -4,8 +4,17 @@ h1 {
 }
 
 h3 {
-   text-align: center;
+  text-align: center;
   
+}
+
+nav {
+  text-align: center;
+  padding: 50px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border: 3px white;
+
 }
 
 
